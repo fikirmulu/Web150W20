@@ -1,0 +1,13 @@
+<html>
+<body>
+    <h2>Welcome to my Calculator</h2>
+    <p id="demo"></p>
+    <script>
+    var x = 5;
+    var y = 7;
+    var z = x + y;
+    document.getElementById("demo").innerHTML = "The Sum of 5+7 is:12";
+    </script>
+</body>
+
+</html>
